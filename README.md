@@ -2,5 +2,6 @@
 
 Card Scanner Sample
 
-## Getting Started
+## -
 
+![Sample](/readme/screenshot.png)
